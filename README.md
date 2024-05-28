@@ -4,12 +4,12 @@
 
 ### 미션
 
-|   Project   |           Period            |                                            Repository                                             |                                  1단계 PR                                  |                                  2단계 PR                                  |
-|:-----------:|:---------------------------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
-|  방탈출 예약 관리  | `2024-04-16` ~ `2024-04-29` |   [spring-roomescape-admin](https://github.com/woowacourse/spring-roomescape-admin/tree/hw0603)   |  [PR 1](https://github.com/woowacourse/spring-roomescape-admin/pull/24)  | [PR 2](https://github.com/woowacourse/spring-roomescape-admin/pull/172)  |
-| 방탈출 사용자 예약  | `2024-04-30` ~ `2024-05-06` |  [spring-roomescape-member](https://github.com/woowacourse/spring-roomescape-member/tree/hw0603)  | [PR 1](https://github.com/woowacourse/spring-roomescape-member/pull/33)  | [PR 2](https://github.com/woowacourse/spring-roomescape-member/pull/146) |
-|  방탈출 예약 대기  | `2024-05-14` ~ `2024-05-27` | [spring-roomescape-waiting](https://github.com/woowacourse/spring-roomescape-waiting/tree/hw0603) | [PR 1](https://github.com/woowacourse/spring-roomescape-waiting/pull/78) |                 [PR 2](https://github.com/woowacourse/)                  |
-| 방탈출 결제 / 배포 |                             |                                [](https://github.com/woowacourse/)                                |                 [PR 1](https://github.com/woowacourse/)                  |                 [PR 2](https://github.com/woowacourse/)                  |
+|   Project   |           Period            |                                            Repository                                             |                                  1단계 PR                                  |                                  2단계 PR                                   |
+|:-----------:|:---------------------------:|:-------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+|  방탈출 예약 관리  | `2024-04-16` ~ `2024-04-29` |   [spring-roomescape-admin](https://github.com/woowacourse/spring-roomescape-admin/tree/hw0603)   |  [PR 1](https://github.com/woowacourse/spring-roomescape-admin/pull/24)  |  [PR 2](https://github.com/woowacourse/spring-roomescape-admin/pull/172)  |
+| 방탈출 사용자 예약  | `2024-04-30` ~ `2024-05-06` |  [spring-roomescape-member](https://github.com/woowacourse/spring-roomescape-member/tree/hw0603)  | [PR 1](https://github.com/woowacourse/spring-roomescape-member/pull/33)  | [PR 2](https://github.com/woowacourse/spring-roomescape-member/pull/146)  |
+|  방탈출 예약 대기  | `2024-05-14` ~ `2024-05-27` | [spring-roomescape-waiting](https://github.com/woowacourse/spring-roomescape-waiting/tree/hw0603) | [PR 1](https://github.com/woowacourse/spring-roomescape-waiting/pull/78) | [PR 2](https://github.com/woowacourse/spring-roomescape-waiting/pull/119) |
+| 방탈출 결제 / 배포 | `2024-05-28` ~ `2024-06-10` | [spring-roomescape-payment](https://github.com/woowacourse/spring-roomescape-payment/tree/hw0603) |                 [PR 1](https://github.com/woowacourse/)                  |                  [PR 2](https://github.com/woowacourse/)                  |
 
 ---
 
