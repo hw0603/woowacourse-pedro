@@ -14,7 +14,7 @@
 
 ## 💻 Level 3 - 팀 프로젝트
 
-<div align="center">~~~~~~~~~~~~
+<div align="center">
 <img src="https://github.com/user-attachments/assets/77a26710-5448-4746-b1e2-e9e643d8e984" width="150px"  alt="모모 로고"/>
 <br>
 <b> 약속 일정 조율 및 약속시간 추천 서비스 <br>
