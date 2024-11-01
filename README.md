@@ -8,13 +8,13 @@
 |:---------------:|:---------------------------:|:-----------------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------:|
 |   Tomcat 구현하기   | `2023-09-03` ~ `2023-09-13` | [java-http](https://github.com/woowacourse/java-http/tree/hw0603) | [PR 1, 2](https://github.com/woowacourse/java-http/pull/578) | [PR 1, 2](https://github.com/woowacourse/java-http/pull/578) | [PR 3](https://github.com/woowacourse/java-http/pull/654) | [PR 4](https://github.com/woowacourse/java-http/pull/765) |
 |   `@MVC` 구현하기   | `2023-09-16` ~ `2023-10-01` |  [java-mvc](https://github.com/woowacourse/java-mvc/tree/hw0603)  |   [PR 2](https://github.com/woowacourse/java-mvc/pull/687)   |   [PR 2](https://github.com/woowacourse/java-mvc/pull/726)   | [PR 3](https://github.com/woowacourse/java-mvc/pull/804)  |                             -                             |
-| JDBC 라이브러리 구현하기 | `2023-10-03` ~ `2023-10-14` | [java-jdbc](https://github.com/woowacourse/java-jdbc/tree/hw0603) |    [PR 1](https://github.com/woowacourse/java-jdbc/pull/)    |    [PR 2](https://github.com/woowacourse/java-jdbc/pull/)    |  [PR 3](https://github.com/woowacourse/java-jdbc/pull/)   |                                                           |
+| JDBC 라이브러리 구현하기 | `2023-10-03` ~ `2023-10-14` | [java-jdbc](https://github.com/woowacourse/java-jdbc/tree/hw0603) |  [PR 1](https://github.com/woowacourse/java-jdbc/pull/612)   |  [PR 2](https://github.com/woowacourse/java-jdbc/pull/763)   | [PR 3](https://github.com/woowacourse/java-jdbc/pull/850) | [PR 4](https://github.com/woowacourse/java-jdbc/pull/918) |
 
 ---
 
 ## 💻 Level 3 - 팀 프로젝트
 
-<div align="center">
+<div align="center">~~~~~~~~~~~~
 <img src="https://github.com/user-attachments/assets/77a26710-5448-4746-b1e2-e9e643d8e984" width="150px"  alt="모모 로고"/>
 <br>
 <b> 약속 일정 조율 및 약속시간 추천 서비스 <br>
