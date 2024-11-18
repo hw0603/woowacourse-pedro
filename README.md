@@ -11,6 +11,13 @@
 | JDBC 라이브러리 구현하기 | `2024-10-03` ~ `2024-10-14` |   [java-jdbc](https://github.com/woowacourse/java-jdbc/tree/hw0603)   |  [PR 1](https://github.com/woowacourse/java-jdbc/pull/612)   |  [PR 2](https://github.com/woowacourse/java-jdbc/pull/763)   | [PR 3](https://github.com/woowacourse/java-jdbc/pull/850) | [PR 4](https://github.com/woowacourse/java-jdbc/pull/918) |
 |    DB 복제와 캐시    | `2024-10-15` ~ `2024-11-01` | [java-coupon](https://github.com/woowacourse/java-coupon/tree/hw0603) |  [PR 1](https://github.com/woowacourse/java-coupon/pull/15)  | [PR 2](https://github.com/woowacourse/java-coupon/pull/153)  |                             -                             |                             -                             |
 
+### 글쓰기 미션
+
+| Project  |           Period            |                                                   Writing                                                   |                             PR                              |
+|:--------:|:---------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| 테크니컬 라이팅 | `2024-09-11` ~ `2024-11-15` | [CORS의 개념과 크로스 오리진 간의 쿠키 전송](https://github.com/woowacourse/woowa-writing/blob/hw0603/technical-writing.md) | [PR](https://github.com/woowacourse/woowa-writing/pull/444) |
+
+
 ---
 
 ## 💻 Level 3 - 팀 프로젝트
@@ -30,9 +37,9 @@
 
 ### 글쓰기 미션
 
-|   Project   |           Period            |                                                         Writing                                                         |                             PR                              |
-|:-----------:|:---------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
-| 레벨 3 글쓰기 미션 | `2024-08-01` ~ `2024-08-19` | [내 의견을 명확하게 전달하기](https://github.com/woowacourse/woowa-writing/blob/2ee1012e94057e469db373f9fd8308b930436132/level3.md) | [PR](https://github.com/woowacourse/woowa-writing/pull/300) |
+|   Project   |           Period            |                                        Writing                                        |                             PR                              |
+|:-----------:|:---------------------------:|:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
+| 레벨 3 글쓰기 미션 | `2024-08-01` ~ `2024-08-19` | [내 의견을 명확하게 전달하기](https://github.com/woowacourse/woowa-writing/blob/hw0603/level3.md) | [PR](https://github.com/woowacourse/woowa-writing/pull/300) |
 
 ---
 
